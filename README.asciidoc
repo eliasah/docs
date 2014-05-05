@@ -23,6 +23,7 @@ First, you need to make sure that you have the following installed:
 * `python`   -- system `python` is fine
 * `xsltproc` -- if not already installed, see
                 http://www.sagehill.net/docbookxsl/InstallingAProcessor.html[Installing a Processor]
+* `xmllint`  -- if not already installed, install `libxml2-utils`
 
 TIP: Windows users are recommended to use http://www.cygwin.com/[Cygwin] (install `asciidoc` package and `libxslt`).
 
